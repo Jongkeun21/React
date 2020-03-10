@@ -1,1 +1,1 @@
-# Practicing React
+# Practicing React and React Navtive(Expo)
